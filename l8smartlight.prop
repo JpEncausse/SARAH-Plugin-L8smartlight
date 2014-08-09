@@ -1,0 +1,9 @@
+{
+  "modules" : { 
+    "l8smartlight"  : {
+      "description": "Call L8 SmartLight",
+      "version"    : "1.0",
+      "port" : "COM4"
+    }
+  }
+}
